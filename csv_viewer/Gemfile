@@ -1,0 +1,5 @@
+source 'https://rubygems.org'  
+
+gem 'tty-prompt'    # For interactive user prompts
+gem 'csv'           # For handling CSV files
+gem 'console_table' # For displaying tables
